@@ -1,2 +1,2 @@
-# Proyecto-23
-si
+# Geologist
+Geologist Project
